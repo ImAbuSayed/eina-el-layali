@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/eina-el-layali/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Eina el-Layali](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
